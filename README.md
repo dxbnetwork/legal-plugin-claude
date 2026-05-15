@@ -1,2 +1,2 @@
-# murray-osorio-legal
-Murray Osorio Claude Cowork Knowledge Work Plugins 
+# legal plugins
+Claude Cowork Knowledge Work Plugins 
